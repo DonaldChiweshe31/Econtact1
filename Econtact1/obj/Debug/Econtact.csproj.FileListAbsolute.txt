@@ -1,0 +1,9 @@
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\bin\Debug\Econtact1.exe.config
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\bin\Debug\Econtact1.exe
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\bin\Debug\Econtact1.pdb
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\obj\Debug\Econtact.csprojResolveAssemblyReference.cache
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\obj\Debug\Econtact1.Econtact.resources
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\obj\Debug\Econtact1.Properties.Resources.resources
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\obj\Debug\Econtact.csproj.GenerateResource.Cache
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\obj\Debug\Econtact1.exe
+C:\Users\donal\OneDrive\Desktop\Econtact1\Econtact1\obj\Debug\Econtact1.pdb
